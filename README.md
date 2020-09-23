@@ -1,1 +1,0 @@
-# jurajpaska8.github.io
