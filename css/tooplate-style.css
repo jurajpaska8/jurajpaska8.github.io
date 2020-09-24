@@ -193,12 +193,12 @@ a:hover, a:active, a:focus {
   background-size: cover !important;
 }
 
-#about, #project, #docu,
+#about, #project, #docu, #feeds,
 #team, #contact, footer {
   background: #ffffff;
 }
 
-#about, #docu, 
+#about, #docu, #feeds,
 #team, #contact {
   padding-top: 100px;
   padding-bottom: 100px;
@@ -406,6 +406,14 @@ a:hover, a:active, a:focus {
   text-transform: uppercase;
   margin: 0;
 }
+
+/*---------------------------------------
+  FEEDS
+-----------------------------------------*/
+
+/*---------------------------------------
+  DOCU
+-----------------------------------------*/
 
 
 /*---------------------------------------
